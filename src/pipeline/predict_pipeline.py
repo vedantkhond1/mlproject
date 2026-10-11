@@ -1,6 +1,6 @@
 
 from flask import Flask, render_template, request
-# from src.pipeline.predict_pipeline import CustomData, PredictPipeline
+
 
 application = Flask(__name__)
 app = application
